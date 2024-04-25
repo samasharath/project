@@ -1,2 +1,2 @@
 # project
-demo project
+demo project for the git
